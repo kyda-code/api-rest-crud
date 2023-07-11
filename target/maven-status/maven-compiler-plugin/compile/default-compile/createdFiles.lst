@@ -1,0 +1,6 @@
+com/api/rest/model/TaskDto.class
+com/api/rest/enums/TaskStatus.class
+com/api/rest/ApiRestCrudApplication.class
+com/api/rest/domain/Task.class
+com/api/rest/controller/TaskController.class
+com/api/rest/repos/TaskRepository.class

@@ -1,0 +1,6 @@
+/home/msereno/Projects/kyda/api-rest-crud/src/main/java/com/api/rest/ApiRestCrudApplication.java
+/home/msereno/Projects/kyda/api-rest-crud/src/main/java/com/api/rest/controller/TaskController.java
+/home/msereno/Projects/kyda/api-rest-crud/src/main/java/com/api/rest/repos/TaskRepository.java
+/home/msereno/Projects/kyda/api-rest-crud/src/main/java/com/api/rest/enums/TaskStatus.java
+/home/msereno/Projects/kyda/api-rest-crud/src/main/java/com/api/rest/domain/Task.java
+/home/msereno/Projects/kyda/api-rest-crud/src/main/java/com/api/rest/model/TaskDto.java
