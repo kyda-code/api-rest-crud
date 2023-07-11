@@ -1,4 +1,4 @@
-# Clip Challenge
+# API REST CRUD
 
 ## Prerequisites
 - Spring Boot
@@ -51,7 +51,7 @@ mvn -N wrapper:wrapper
 
 Now we can run the application without the Docker container (that is, in the host OS):
 ```sh
-./mvnw package && java -jar target/clip-0.0.1-SNAPSHOT.jar 
+./mvnw package && java -jar target/rest-0.0.1-SNAPSHOT.jar 
 ```
 
 Dockerfile:
